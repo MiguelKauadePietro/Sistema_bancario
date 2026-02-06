@@ -1,3 +1,5 @@
+### Um sistema bancário feito em C++, utilizando conceitos de Programação Orientada à Objetos
+
 Você pode compilar o projeto utilizando `g++`:
 
 ```bash
